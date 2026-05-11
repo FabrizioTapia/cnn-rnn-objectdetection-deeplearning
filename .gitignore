@@ -1,0 +1,15 @@
+# Pesos de modelos y checkpoints
+*.pth
+*.pt
+checkpoint_epoch_*.pth
+
+# Datasets pesados
+datasets/
+70-dog-breeds/
+traffic-signs/
+google-speech-commands/
+
+# Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

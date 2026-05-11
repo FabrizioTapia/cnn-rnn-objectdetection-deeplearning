@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+ultralytics
+librosa
+numpy
+opencv-python
+matplotlib
+scikit-learn
+notebook
