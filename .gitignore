@@ -8,6 +8,7 @@ datasets/
 70-dog-breeds/
 traffic-signs/
 google-speech-commands/
+dataset_problema2/
 
 # Python y Jupyter
 __pycache__/
