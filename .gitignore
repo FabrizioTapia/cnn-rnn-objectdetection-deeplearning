@@ -14,3 +14,10 @@ dataset_problema2/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+
+#Prueba en colab
+yolov8_nano_v1/
+yolov8_small_v1/
+*.zip
+tp2_senales/
+runs/
